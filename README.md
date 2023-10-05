@@ -7,5 +7,5 @@ Inputs:
 - Obstacles: [(2, 2), (3, 5)]
 
 Outputs:
-- Final Position: (1, 3, E)
-- Status Report: "Rover is at (1, 3) facing East. No Obstacles detected."
+- Final Position: (1, 3, N)
+- Status Report: "Rover is at (1, 3) facing North. No Obstacles detected."
