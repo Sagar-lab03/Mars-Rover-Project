@@ -16,8 +16,11 @@ To get started with the simulation, you need a Python environment.
 
 ### Installation
 1. Clone the repository:
+```bash
+git clone https://github.com/your_username/mars_rover_simulation.git
+```
 
-2. Navigate to the cloned directory:
+3. Navigate to the cloned directory:
 ```bash
 cd mars_rover_simulation
 ```
