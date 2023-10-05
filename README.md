@@ -5,7 +5,6 @@
 2. [Getting Started](#getting-started)
 3. [Usage](#usage)
 4. [Class Diagram](#class-diagram)
-5. [Future Improvements](#future-improvements)
 
 <a name="description"></a>
 ## Description
@@ -15,14 +14,9 @@ This is a simple simulation of a Mars Rover that can navigate a grid-based terra
 ## Getting Started
 To get started with the simulation, you need a Python environment.
 
-### Prerequisites
-- Python 3.x
-
 ### Installation
 1. Clone the repository:
-```bash
-git clone https://github.com/your_username/mars_rover_simulation.git
-```
+
 2. Navigate to the cloned directory:
 ```bash
 cd mars_rover_simulation
@@ -58,11 +52,6 @@ Upon running the script, the Rover will start at a predefined point and will exe
 
 3. **Command**: An interpreter pattern class to navigate the Rover based on string-based commands like "L", "R", and "M" for left, right, and move respectively.
 
-<a name="future-improvements"></a>
-## Future Improvements
-1. Extend the command class to include more complex movements.
-2. Integrate with a GUI to visually represent the rover's movement.
-3. Include a feature for dynamic obstacles generation.
 
 ---
 
